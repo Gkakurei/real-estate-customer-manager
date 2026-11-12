@@ -1,4 +1,4 @@
-# CustomerSystem
+# CustomerSystem （26.09）
 
 不動産営業向けの顧客管理（追客）アプリです。
 
